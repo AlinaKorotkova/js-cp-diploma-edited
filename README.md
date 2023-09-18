@@ -1,3 +1,10 @@
+Используемые технологии
+
+JavaScript
+CSS
+HTML
+Ссылка на GitHub Pages website https://alinakorotkova.github.io/js-cp-diploma-edited/
+
 # Дипломное задание по курсу «JavaScript-программирование для начинающих»
 
 ## Создание «информационной системы для предварительного бронирования билетов».
