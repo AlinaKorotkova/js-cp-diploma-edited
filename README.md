@@ -1,8 +1,8 @@
 Используемые технологии
 
-_JavaScript
-_CSS
-_HTML
+JavaScript
+CSS
+HTML
 
 Ссылка на GitHub Pages website https://alinakorotkova.github.io/js-cp-diploma-edited/
 
