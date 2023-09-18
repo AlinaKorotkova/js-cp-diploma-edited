@@ -1,8 +1,9 @@
 Используемые технологии
 
-JavaScript
-CSS
-HTML
+_JavaScript
+_CSS
+_HTML
+
 Ссылка на GitHub Pages website https://alinakorotkova.github.io/js-cp-diploma-edited/
 
 # Дипломное задание по курсу «JavaScript-программирование для начинающих»
